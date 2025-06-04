@@ -68,3 +68,4 @@ def test_transcription_empty_audio(tmp_path):
     empty_audio.write_bytes(b"")
     with pytest.raises(Exception):
         transcribe_audio(empty_audio)
+
