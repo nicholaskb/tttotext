@@ -1,0 +1,4 @@
+yt_dlp
+moviepy
+speech_recognition
+pyperclip
